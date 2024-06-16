@@ -1,0 +1,11 @@
+Tokenization
+Stopwords 
+Stemming 
+Lemmatizaton
+
+Text Pre-processing 
+1) Tokenizaton (Sentences into words)
+2) Stop words
+3) Stemming (reducing words into their base form: Root Word )
+4) Lemmatizaton
+
